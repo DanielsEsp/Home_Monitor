@@ -3,14 +3,14 @@
 
 
 #include <WiFi.h>
-const char* ssid = "Bbox-E295749E-2,4GHz";
-const char* password = "Mb&2427242711";
+const char* ssid = "SSID";
+const char* password = "PASS";
        int  wifitime, esprestart;
        
 #include <WiFiClientSecure.h>
 #include <UniversalTelegramBot.h>
-#define BOTtoken "5523313571:AAFgRqvW2HVkipJ0_54ZPPygI0uUaqJnTHk"  // your Bot Token (Get from Botfather)
-#define CHAT_ID "1406207106"
+#define BOTtoken "TOKEN"  // your Bot Token (Get from Botfather)
+#define CHAT_ID "CHATID"
 WiFiClientSecure client;
 UniversalTelegramBot bot(BOTtoken, client);
 #include <ArduinoJson.h>
