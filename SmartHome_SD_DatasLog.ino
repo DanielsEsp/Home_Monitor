@@ -55,8 +55,8 @@ void image_display() {
 
 
 #include <WiFi.h>
-          const char * ssid="Bbox-E295749E-2,4GHz";
-          const char * wifipw="Mb&2427242711";
+          const char * ssid="SSID";
+          const char * wifipw="PASSWORD";
 
 #include "time.h"
 //   Alléatoire Source        Garage, Fosse, Celier
