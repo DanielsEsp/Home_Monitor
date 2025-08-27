@@ -7,4 +7,8 @@ Visualisation de l'état de charge de la batterie des modules.
 
 ![20250608_103633](https://github.com/user-attachments/assets/07bc1e36-41d7-480f-b18b-f5ffb69f3f85)
 
+Derières modifications.
+
+Ajout option TelegramBot pour les notification alarmes garage, cellier et fosse.
+Et mise en place DF-mini-player pour notification vocale des alarmes.
 
