@@ -12,3 +12,6 @@ Derières modifications.
 Ajout option TelegramBot pour les notification alarmes garage, cellier et fosse.
 Et mise en place DF-mini-player pour notification vocale des alarmes.
 
+![SmartHomeV5](https://github.com/user-attachments/assets/16b091eb-fffa-4947-b362-57563354ebf3)
+
+
