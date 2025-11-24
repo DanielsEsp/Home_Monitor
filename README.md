@@ -14,4 +14,5 @@ Et mise en place DF-mini-player pour notification vocale des alarmes.
 
 ![SmartHomeV5](https://github.com/user-attachments/assets/16b091eb-fffa-4947-b362-57563354ebf3)
 
+![20251122_145738](https://github.com/user-attachments/assets/97ae01f8-66cf-4dff-8f46-9658d58f3e8f)
 
